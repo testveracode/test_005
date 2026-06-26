@@ -4,7 +4,7 @@ repository:
   name: "test_005"
   full_name: "testveracode/test_005"
   branch: "test_br"
-  commit_sha: "e2f850e7ea0cc8f536468f56ff8a4fa1c7269ae6"
+  commit_sha: "80b3300934b0a442e67baec3ce93cc0740477254"
 
 business_application:
   name: "test_new_005"
@@ -18,4 +18,4 @@ veracode:
 App sec platform:
   managed: true
   generated_by: "App sec platform - context-resolver"
-  generated_at: "2026-06-26T09:21:02.873Z"
+  generated_at: "2026-06-26T09:24:15.797Z"
