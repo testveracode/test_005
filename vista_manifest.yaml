@@ -1,5 +1,8 @@
 apiVersion: vista.fortiminds.io/v1
-businessApplication: null
+businessApplication:
+  criticality: Tier2
+  id: 9b2235f4-191a-4558-ba21-eb3058b9b5f7
+  name: test_fm_vists_005
 governance:
   enforced: true
   policies:
@@ -9,5 +12,6 @@ metadata:
   organisation: testveracode
   repository: test_005
 scanners:
-  - enabled: false
+  - enabled: true
     name: veracode
+    profile: test_fm_vists_005
