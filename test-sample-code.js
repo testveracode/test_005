@@ -146,6 +146,7 @@ app.get('/reset-token', (req, res) => {
 /* Comment for testing */
 //comment1
 //comment2
+//comment3
 app.listen(3000, () => {
   console.log('Vulnerable application listening on port 3000');
 });
