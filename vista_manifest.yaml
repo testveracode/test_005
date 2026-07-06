@@ -1,0 +1,13 @@
+apiVersion: vista.fortiminds.io/v1
+businessApplication: null
+governance:
+  enforced: true
+  policies:
+    - VISTA-CONTEXT-001
+kind: RepositoryManifest
+metadata:
+  organisation: testveracode
+  repository: test_005
+scanners:
+  - enabled: false
+    name: veracode
